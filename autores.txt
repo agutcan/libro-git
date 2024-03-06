@@ -1,2 +1,4 @@
 Nombre de usuario: Aaron
 Correo electronico: aaronolo121@gmail.com
+Nombre de usuario: Autoria
+Correo electronico: autoria@gmail.com
